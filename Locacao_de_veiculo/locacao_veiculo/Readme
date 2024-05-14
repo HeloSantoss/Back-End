@@ -1,0 +1,18 @@
+Para iniciar aplicação - php -S localhost:8081
+
+1- pagina html pizza
+2- entra na pizza direciona para pagina de cadastro e depois login do pedido
+consegue adicionar outras contas adm e quem é o supervisor 
+3- adicionar inserts
+4- melhorar pagina
+
+
+1- criar uma pagina para cadastrar e consultar quem são os funcionarios
+1.1- criar a opção de escrever o nome do supervisor ao cadastrar o funcionario
+2- criar meio para cadastrar pizzas no meu site
+3- criar status do pedido
+
+
+oq faz:
+faz pesquisa dos cadastrados e sabor de pizza
+apaga
