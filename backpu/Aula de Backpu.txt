@@ -1,0 +1,36 @@
+Apendendo a fazer backup
+
+file - preferences - paths -  binary paths
+faço o caminho - arqui dee pro. - postgres - 16
+bin - Caminho para salvar 
+
+
+
+No postgres:
+1.
+seleciono o banco - botao direiro - backpu - adiciono caminho
+opcao dois format - custom - postgres
+
+2.
+Data Options:
+type of obj - only schemas 
+
+3. 
+Query Options - user insert commandas
+
+4. 
+table options - use column inserts
+
+5. 
+options - verbose 
+
+6. 
+public - seleticono tudo, e vizualizo o backcup
+
+
+
+Confirmando se a aplicacao esta funcionando:
+1. seleciono o banco
+2. botão direito - restorn - excluo a table/public
+Format - custom - filename - escolho caminho do arq. 
+role name - postgres - options - salvo
